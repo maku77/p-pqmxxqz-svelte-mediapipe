@@ -8,6 +8,7 @@ This is a demo of gesture recognition using MediaPipe in a Svelte app.
 This project was created to illustrate the following web page.
 
 - [Svelte 応用: MediaPipe で Web カメラ映像をジェスチャー認識する｜まくろぐ](https://maku.blog/p/pqmxxqz/)
+- [デモページ](https://p-pqmxxqz-svelte-mediapipe.vercel.app/)
 
 ## Developing
 
