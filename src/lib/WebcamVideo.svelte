@@ -25,13 +25,13 @@
 	}
 </script>
 
-<video id="webcam" bind:this={videoElem} playsinline>
+<video bind:this={videoElem} playsinline>
 	<!-- Web カメラの入力映像を表示するのでキャプションは存在しない -->
 	<track kind="captions" src="" default />
 </video>
 
 <style>
-	#webcam {
+	video {
 		width: 640px;
 		max-width: 100%;
 		transform: scaleX(-1); /* 映像を左右反転 */
